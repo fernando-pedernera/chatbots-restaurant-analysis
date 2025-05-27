@@ -66,3 +66,7 @@ Este enfoque combina ciencia de datos con visualización interactiva para ofrece
 **Fernando Pedernera**  
 Máster en Innovación y Transformación Digital  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/)
+
+## 📌 Notas
+
+Este proyecto se encuentra alojado en Google Drive para facilitar el acceso a archivos pesados como el `.pbix` de Power BI. Si tenés preguntas o sugerencias, podés escribirme por LinkedIn.
