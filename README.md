@@ -31,13 +31,13 @@ Proceso de limpieza, transformación, análisis y generación de los datos final
 
 ### 📊 Dashboard final (Power BI)  
 Visualización interactiva para analizar zonas con y sin reservas, puntuaciones promedio, densidad de restaurantes y otras variables relevantes.  
-🔗 [Ver dashboard](https://drive.google.com/drive/folders/1VZLNQc_2ZRKTDojCsuwmkI3rWWIKgIex?usp=drive_link)  
+🔗 [Ver dashboard](https://drive.google.com/drive/folders/1Ur0feLjiv6d-d0LZKSwBMpKQlzi1TzTR?usp=drive_link)  
 📸 ![image](https://github.com/user-attachments/assets/4384c8ea-11cc-4586-9ca6-d21bd7cf9bd0)
 
 
 ### 🧠 Diagrama del proceso de aprendizaje  
 Un gráfico de tipo grafo creado en draw.io que resume el proceso de aprendizaje en este proyecto.  
-🔗 [Ver diagrama de aprendizaje](https://drive.google.com/drive/folders/1uPNwHNcQBsIRepw0ARNQH-s88ER2ZyiP?usp=drive_link)
+🔗 [Ver diagrama de aprendizaje](https://drive.google.com/drive/folders/1UuC3y8o-AUufpjJK5bjSS2lUMZ4fmfCs?usp=drive_link)
 
 ---
 
