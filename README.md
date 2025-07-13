@@ -22,11 +22,11 @@ Este proyecto está alojado en Google Drive. Todos los recursos son públicos y 
 
 ### 📂 Carpeta principal del proyecto  
 Incluye todos los componentes: notebooks, datasets, dashboard y documentos adicionales.  
-🔗 [Acceder a la carpeta](https://drive.google.com/drive/folders/100fVScUVCFzetklSucdpo86JrmoLOM7X?usp=sharing)
+🔗 [Acceder a la carpeta](https://drive.google.com/drive/folders/12OIwV54gKqwl0oUD_X-NncqZk6pFEqEJ?usp=drive_link)
 
 ### 📒 Notebooks (Python – Google Colab)  
 Proceso de limpieza, transformación, análisis y generación de los datos finales.  
-🔗 [Ver notebooks](https://drive.google.com/drive/folders/1l5zJFYc13BD0zoHAvUi1ZhOSQ8E7Zx_d?usp=sharing)  
+🔗 [Ver notebooks](https://drive.google.com/drive/folders/1RrP6TVd5mZjuHwTnf_rK1NII4UlRfNLd?usp=drive_link)  
 > 📌 Estas notebooks documentan todo el proceso técnico y son el núcleo del proyecto.
 
 ### 📊 Dashboard final (Power BI)  
