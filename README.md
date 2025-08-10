@@ -40,7 +40,7 @@ El análisis completo se presenta en un dashboard interactivo creado en **Power 
 > **Nota:** Puede tardar algunos segundos en cargar según la conexión a internet.  
 > Se recomienda visualizarlo en pantalla completa para una mejor experiencia.
 
-![Vista previa del dashboard](images/dashboard_preview.png)
+![Vista previa del dashboard]([images/dashboard_preview.png](https://github-production-user-asset-6210df.s3.amazonaws.com/84539502/447677419-4384c8ea-11cc-4586-9ca6-d21bd7cf9bd0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250810%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250810T015038Z&X-Amz-Expires=300&X-Amz-Signature=4b171dc64cebf8d8a25f4bafdbc44e80d37868a1f8bca6dc41a8827bb7d405b8&X-Amz-SignedHeaders=host))
 
 ---
 
