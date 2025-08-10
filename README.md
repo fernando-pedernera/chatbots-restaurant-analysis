@@ -8,11 +8,11 @@ Descubrir oportunidades para la implementación de **chatbots en restaurantes**,
 
 ## 🧰 Herramientas utilizadas
 
-- **Python** (Google Colab)
-- **Power BI**
-- **Overpass API** (datos OpenStreetMap)
-- **US Census Data** (demográficos)
-- **Yelp Dataset** (reseñas de restaurantes)
+- **Python** (Google Colab)  
+- **Power BI**  
+- **Overpass API** (datos OpenStreetMap)  
+- **US Census Data** (demográficos)  
+- **Yelp Dataset** (reseñas de restaurantes)  
 
 ---
 
@@ -35,7 +35,7 @@ Proceso de limpieza, transformación, análisis y generación de los datos final
 
 El análisis completo se presenta en un dashboard interactivo creado en **Power BI**, disponible públicamente.
 
-[![Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjc5NWQ0YzMtMGI3OC00ZmVkLTg4OGMtMjQ0Zjc0NTVkOTM0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)  
+[![Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjc5NWQ0YzMtMGI3OC00ZmVkLTg4OGMtMjQ0Zjc0NTVkOTM0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)](https://app.powerbi.com/view?r=eyJrIjoiNjc5NWQ0YzMtMGI3OC00ZmVkLTg4OGMtMjQ0Zjc0NTVkOTM0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)
 
 > **Nota:** Puede tardar algunos segundos en cargar según la conexión a internet.  
 > Se recomienda visualizarlo en pantalla completa para una mejor experiencia.
@@ -52,9 +52,9 @@ Un gráfico de tipo grafo creado en draw.io que resume el proceso de aprendizaje
 
 ## 📌 Fuentes de Datos
 
-- [Yelp Dataset](https://www.yelp.com/dataset)
-- [U.S. Census Bureau](https://www.census.gov/data.html)
-- [OpenStreetMap / Overpass API](https://overpass-turbo.eu/)
+- [Yelp Dataset](https://www.yelp.com/dataset)  
+- [U.S. Census Bureau](https://www.census.gov/data.html)  
+- [OpenStreetMap / Overpass API](https://overpass-turbo.eu/)  
 
 ---
 
@@ -62,9 +62,9 @@ Un gráfico de tipo grafo creado en draw.io que resume el proceso de aprendizaje
 
 El dashboard y el análisis permiten:
 
-- 📍 **Identificar zonas estratégicas** para la implementación de chatbots en restaurantes.
-- 💬 **Analizar patrones de reseñas y densidad de locales** gastronómicos.
-- 🌆 **Detectar oportunidades de automatización** combinando variables urbanas, demográficas y de comportamiento del cliente.
+- 📍 **Identificar zonas estratégicas** para la implementación de chatbots en restaurantes.  
+- 💬 **Analizar patrones de reseñas y densidad de locales** gastronómicos.  
+- 🌆 **Detectar oportunidades de automatización** combinando variables urbanas, demográficas y de comportamiento del cliente.  
 
 Este enfoque combina ciencia de datos con visualización interactiva para ofrecer insights prácticos aplicables en innovación y transformación digital en el sector gastronómico.
 
@@ -76,8 +76,11 @@ Este enfoque combina ciencia de datos con visualización interactiva para ofrece
 Máster en Innovación y Transformación Digital  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/)
 
+---
+
 ## 📌 Notas
 
 Este proyecto se encuentra alojado en Google Drive para facilitar el acceso a archivos pesados como el `.pbix` de Power BI.  
 Si tenés preguntas o sugerencias, podés escribirme por LinkedIn.
+
 
