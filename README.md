@@ -29,11 +29,20 @@ Proceso de limpieza, transformación, análisis y generación de los datos final
 🔗 [Ver notebooks](https://drive.google.com/drive/folders/1RrP6TVd5mZjuHwTnf_rK1NII4UlRfNLd?usp=drive_link)  
 > 📌 Estas notebooks documentan todo el proceso técnico y son el núcleo del proyecto.
 
-### 📊 Dashboard final (Power BI)  
-Visualización interactiva para analizar zonas con y sin reservas, puntuaciones promedio, densidad de restaurantes y otras variables relevantes.  
-🔗 [Ver dashboard](https://drive.google.com/drive/folders/1Ur0feLjiv6d-d0LZKSwBMpKQlzi1TzTR?usp=drive_link)  
-📸 ![image](https://github.com/user-attachments/assets/4384c8ea-11cc-4586-9ca6-d21bd7cf9bd0)
+---
 
+## 📊 Dashboard Interactivo
+
+El análisis completo se presenta en un dashboard interactivo creado en **Power BI**, disponible públicamente.
+
+[![Ver en Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNjc5NW...)  
+
+> **Nota:** Puede tardar algunos segundos en cargar según la conexión a internet.  
+> Se recomienda visualizarlo en pantalla completa para una mejor experiencia.
+
+![Vista previa del dashboard](images/dashboard_preview.png)
+
+---
 
 ### 🧠 Diagrama del proceso de aprendizaje  
 Un gráfico de tipo grafo creado en draw.io que resume el proceso de aprendizaje en este proyecto.  
@@ -69,4 +78,6 @@ Máster en Innovación y Transformación Digital
 
 ## 📌 Notas
 
-Este proyecto se encuentra alojado en Google Drive para facilitar el acceso a archivos pesados como el `.pbix` de Power BI. Si tenés preguntas o sugerencias, podés escribirme por LinkedIn.
+Este proyecto se encuentra alojado en Google Drive para facilitar el acceso a archivos pesados como el `.pbix` de Power BI.  
+Si tenés preguntas o sugerencias, podés escribirme por LinkedIn.
+
