@@ -40,7 +40,7 @@ El análisis completo se presenta en un dashboard interactivo creado en **Power 
 > **Nota:** Puede tardar algunos segundos en cargar según la conexión a internet.  
 > Se recomienda visualizarlo en pantalla completa para una mejor experiencia.
 
-![Vista previa del dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/84539502/447677419-4384c8ea-11cc-4586-9ca6-d21bd7cf9bd0.png)
+📸 ![image](https://github.com/user-attachments/assets/4384c8ea-11cc-4586-9ca6-d21bd7cf9bd0))
 
 ---
 
