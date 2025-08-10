@@ -72,7 +72,8 @@ Este enfoque combina ciencia de datos con visualización interactiva para ofrece
 
 ## 👤 Autor
 
-**Fernando Pedernera**  
+**Fernando Pedernera**
+Data Engineer | Analista de Datos
 Máster en Innovación y Transformación Digital  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/)
 
