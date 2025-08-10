@@ -35,7 +35,7 @@ Proceso de limpieza, transformación, análisis y generación de los datos final
 
 El análisis completo se presenta en un dashboard interactivo creado en **Power BI**, disponible públicamente.
 
-![Ver en Power BI](https://raw.githubusercontent.com/microsoft/PowerBI-Embedded-Contoso/master/Artifacts/PBI_Logo.png)](https://app.powerbi.com/view?r=eyJrIjoiNjc5NWQ0YzMtMGI3OC00ZmVkLTg4OGMtMjQ0Zjc0NTVkOTM0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)
+[Ver en Power BI Public](https://app.powerbi.com/view?r=eyJrIjoiNjc5NWQ0YzMtMGI3OC00ZmVkLTg4OGMtMjQ0Zjc0NTVkOTM0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)
 
 > **Nota:** Puede tardar algunos segundos en cargar según la conexión a internet.  
 > Se recomienda visualizarlo en pantalla completa para una mejor experiencia.
@@ -72,8 +72,8 @@ Este enfoque combina ciencia de datos con visualización interactiva para ofrece
 
 ## 👤 Autor
 
-**Fernando Pedernera**
-Data Engineer | Analista de Datos
+Fernando Pedernera  
+Data Engineer | Analista de Datos  
 Máster en Innovación y Transformación Digital  
 🔗 [LinkedIn](https://www.linkedin.com/in/fgpedernera/)
 
